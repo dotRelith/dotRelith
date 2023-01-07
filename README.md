@@ -1,4 +1,4 @@
-# dotRelith aka Stefano De Cesare Tedeschi
+# dotRelith a.k.a Stefano De Cesare Tedeschi
 ![profile count](https://komarev.com/ghpvc/?username=dotRelith&color=red)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/dotRelith)
 [![GitHub dotRelith](https://img.shields.io/github/followers/dotRelith?label=follow&style=social)](https://github.com/dotRelith)
