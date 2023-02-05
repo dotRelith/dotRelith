@@ -10,9 +10,10 @@ I recently completed an internship at Receita Federal do Brasil, where I gained 
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | C#, Python | JS | C, C++, Java |
-| **Frameworks/Platforms** | - | React, Git, Google Colab | Node.js, WPF |
-| **Languages(human)** | Portuguese, English | Spanish, Italian  | - |
-| **Other interests** | Macro Economy, Archery, AIs, Game Development | Cooking | - |
+| **Frameworks/Platforms** | - | React, Git | Node.js |
+| **Languages(human)** | Portuguese, English | - | Spanish, Italian |
+| **Other interests** | Cryptos, Archery, AIs, Game Development | Macro Economy, Cooking | Manga |
 
 ## Quotes i like
 > [underidoderidoderiododeriodoo. - Winston Churchill](https://www.youtube.com/shorts/ldq-TT7gyb0)
+> Throughout Heaven and Earth I alone am the honored one. - Budda/Sakyamuni
