@@ -18,4 +18,4 @@ I recently completed an internship at Receita Federal do Brasil, where I gained 
 
 ## Quotes i like
 > [underidoderidoderiododeriodoo. - Winston Churchill](https://www.youtube.com/shorts/ldq-TT7gyb0)
-> Throughout Heaven and Earth I alone am the honored one. - Budda/Sakyamuni
+> <br>Throughout Heaven and Earth I alone am the honored one. - Budda/Sakyamuni
