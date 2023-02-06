@@ -12,7 +12,7 @@ I recently completed an internship at Receita Federal do Brasil, where I gained 
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | C#, Python | JS | C, C++, Java |
-| **Frameworks/Platforms** | - | React, Git | Node.js |
+| **Frameworks/Platforms** | Unity | React, Git | Node.js |
 | **Languages(human)** | Portuguese, English | - | Spanish, Italian |
 | **Other interests** | Cryptos, Archery, AIs, Game Development | Macro Economy, Cooking | Manga |
 
