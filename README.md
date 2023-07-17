@@ -6,14 +6,15 @@
 [![dotRelith's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dotRelith&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dotRelith/github-readme-stats#gh-light-mode-only)
 
 ## Introduction
-I recently completed an internship at Receita Federal do Brasil, where I gained valuable experience in IT. Although I did not work directly with software development during my internship, I have a strong foundation in programming languages including C#, Python, and JavaScript, and have worked on personal projects using Node.JS and React. I have also been using Unity 3D for almost 3 years(non-professionally) now and have made multiple mods for different games like Terraria and Minecraft. My main focus recently has been on developing my dotCapture application. I am passionate about using technology to solve problems and am always looking to learn more and improve my skills. I am currently seeking a full-time software development role and am excited for the future. Please feel free to connect with me on GitHub or reach out to chat about any opportunities.
+I recently completed an internship at Receita Federal do Brasil, where I gained valuable experience in IT. Although I did not work directly with software development during my internship, I have a strong foundation in programming languages including C#, Python, and JavaScript, and have worked on personal projects using Node.JS and React. I have also been using Unity 3D for almost 3 years(non-professionally) now and have made multiple mods for different games like Terraria and Minecraft. I am passionate about using technology to solve problems and am always looking to learn more and improve my skills. I am currently seeking a full-time software development role and am excited for the future. Please feel free to connect with me on GitHub or reach out to chat about any opportunities.
 
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | C#, Python | JS | C, C++, Java |
-| **Frameworks/Platforms** | Unity | React, Git | Node.js |
+| **Languages(programming)** | C#, Python | JS | C, Java |
+| **Frameworks/Platforms** | Unity | Angular, React, Git | Node.js |
 | **Languages(human)** | Portuguese, English | - | Spanish, Italian |
+| **Languages i'd like to learn(human)** | Mandarim, German | - | Italian |
 | **Other interests** | Cryptos, Archery, AIs, Game Development | Macro Economy, Cooking | Manga |
 
 ## Quotes i like
