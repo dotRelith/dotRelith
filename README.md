@@ -12,10 +12,10 @@ I recently completed an internship at Receita Federal do Brasil, where I gained 
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | C#, Python | JS | C, Java |
-| **Frameworks/Platforms** | Unity | Angular, React, Git | Node.js |
+| **Frameworks/Platforms** | Unity, Godot | Angular, React, Git | Node.js |
 | **Languages(human)** | Portuguese, English | - | - |
-| **Languages i'd like to learn(human)** | Mandarim, German | - | Italian |
-| **Other interests** | Cryptos, Archery, AIs, Game Development | Macro Economy, Cooking | Manga |
+| **Languages i'd like to learn(human)** | Chinese, German | - | Italian |
+| **Other interests** | Archery, Game Development | Macro Economy, Cooking | Manga |
 
 ## Quotes i like
 > [underidoderidoderiododeriodoo. - Winston Churchill](https://www.youtube.com/shorts/ldq-TT7gyb0)
